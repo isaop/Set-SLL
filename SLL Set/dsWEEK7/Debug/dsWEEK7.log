@@ -1,0 +1,3 @@
+﻿  Set.cpp
+C:\vs\SLL Set\dsWEEK7\Set.cpp(85): warning C4715: 'Set::search': not all control paths return a value
+  dsWEEK7.vcxproj -> C:\vs\SLL Set\Debug\dsWEEK7.exe
